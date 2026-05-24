@@ -169,7 +169,7 @@ for item in data:
   author    = {},
   year      = {2026},
   publisher = {GitHub},
-  url       = {https://github.com/mathrag-bench/retrieval-awareness-dataset}
+  url       = {https://github.com/B9lair/Mathematical-Question-Answering-Retrieves-self-aware-datasets}
 }
 ```
 
